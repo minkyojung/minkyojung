@@ -3,7 +3,7 @@
 
 ### 🚀 What I'm building
 
-- ✍️ **[Octave](https://github.com/minkyojung/edit)** — AI Native note app
+- ✍️ **[Octave](https://octave.run)** — AI Native note app
 - 🎥 **[flowcap](https://github.com/minkyojung/flowcap)** — record your screen, AI generates the workflow docs
 
 ### 🛠️ Tech Stack
