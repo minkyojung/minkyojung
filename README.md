@@ -12,8 +12,7 @@
 
 ### 🚀 What I'm building
 
-- 🤖 **[momo](https://github.com/momo-personal-assistant)** — a personal assistant
-- ✍️ **[edit](https://github.com/minkyojung/edit)** — my most active project right now
+- ✍️ **[Octave](https://github.com/minkyojung/edit)** — AI Native note app
 - 🎥 **[flowcap](https://github.com/minkyojung/flowcap)** — record your screen, AI generates the workflow docs
 
 ### 🛠️ Tech Stack
