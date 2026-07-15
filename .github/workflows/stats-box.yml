@@ -1,0 +1,17 @@
+name: Update GitHub Stats Gist
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 자동 업데이트
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update gist
+        uses: jstrieb/github-stats-box@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
