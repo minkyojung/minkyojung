@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minkyojung&show_icons=true&include_all_commits=true&count_private=true" />
