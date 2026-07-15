@@ -15,10 +15,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minkyojung&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkyojung&layout=compact&hide_progress=true" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minkyojung&show_icons=true&include_all_commits=true)](https://github.com/minkyojung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyojung&layout=compact&hide_progress=true)](https://github.com/minkyojung)
 
 
 ![3D Contribution Graph](profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
