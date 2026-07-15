@@ -40,22 +40,8 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minkyojung&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minkyojung&theme=tokyonight&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 </p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minkyojung&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<!-- Snake animation (requires GitHub Actions setup — see instructions) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minkyojung/minkyojung/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 <p align="center">
