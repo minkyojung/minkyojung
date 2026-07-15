@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm William 👋</h1>
 
-<!--
-**minkyojung/minkyojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E7681&center=true&width=440&lines=Building+developer+tools;TypeScript+%C2%B7+Swift+%C2%B7+AI+agents;6%2C800%2B+contributions+last+year" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minkyojung&label=Profile%20views&color=6E7681&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm building
+
+- 🤖 **[momo](https://github.com/momo-personal-assistant)** — a personal assistant
+- ✍️ **[edit](https://github.com/minkyojung/edit)** — my most active project right now
+- 🎥 **[flowcap](https://github.com/minkyojung/flowcap)** — record your screen, AI generates the workflow docs
+
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minkyojung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkyojung&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=minkyojung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minkyojung&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minkyojung&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<!-- Snake animation (requires GitHub Actions setup — see instructions) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minkyojung/minkyojung/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  📫 Reach me: <a href="mailto:im@minkyojung.com">email</a>
+</p>
