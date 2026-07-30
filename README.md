@@ -12,7 +12,6 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=minkyojung&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/minkyojung"
