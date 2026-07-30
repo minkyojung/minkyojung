@@ -20,3 +20,5 @@
   height="300"
 />
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=minkyojung&theme=dark)](https://git.io/streak-stats)
